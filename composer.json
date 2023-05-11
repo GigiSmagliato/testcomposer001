@@ -1,0 +1,16 @@
+{
+    "name": "vagrant/testcomposer001",
+    "license": "CC",
+    "autoload": {
+        "psr-4": {
+            "Vagrant\\Testcomposer001\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gilles Smagliato",
+            "email": "smagliatogilles@gmail.com"
+        }
+    ],
+    "require": {}
+}
